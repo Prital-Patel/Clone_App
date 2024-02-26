@@ -12,7 +12,7 @@ A Modern YouTube Clone React Js Application deploy on EKS
 8. Grafana
 
 # Overview
-The project involves deploying an application using Terraform to provision an EC2 instance and leveraging a CI/CD pipeline triggered by changes in a GitHub repository. The pipeline automates several stages including code analysis, dependency installation, security scanning, Docker image building and pushing to Docker Hub, Docker image scanning, and deployment to an EKS cluster. Monitoring of the Jenkins CI server and EKS cluster is done using Grafana and Prometheus.
+The project involves deploying an application using Terraform to provision an EC2 instance and leveraging a CI/CD pipeline triggered by changes in a GitHub repository. The pipeline automates several stages including code analysis, dependency installation, security scanning, Docker image building and pushing to Docker Hub, Docker image scanning, and deployment to an EKS cluster. Monitoring of the Jenkins server and EKS cluster is done using Grafana and Prometheus.
 
 # Flow:
 
