@@ -1,4 +1,4 @@
-# you-Tube clone App
+# You-Tube clone App
 A Modern YouTube Clone React Js Application deploy on EKS 
 
 ## Requirements
